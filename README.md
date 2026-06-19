@@ -9,6 +9,10 @@ A 3D dice simulator with physics. Built using C++ and the Qt framework on Ubuntu
 - Sound effects
 - Interactive camera controls
 
+## Requirements 
+- C++
+- Qt
+
 ## How to Build
 ```bash
 g++ Dice_simulator.cpp -o dice_sim \
