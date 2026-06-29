@@ -1,5 +1,5 @@
 # 3D_Dice_Simulator
-A 3D dice simulator with physics. Built using C++ and the Qt framework on Ubuntu!
+A 3D dice simulator with physics. Built using C++ and the Qt framework!
 
 # 🎲 3D Dice Simulator
 
@@ -11,7 +11,7 @@ A 3D dice simulator with physics. Built using C++ and the Qt framework on Ubuntu
 
 ## Requirements 
 - C++
-- Qt
+- Qt6
 
 ## How to Build
 ```bash
